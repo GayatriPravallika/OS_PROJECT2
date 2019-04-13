@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char pn[10][10];
+int arr[10],bur[10],star[10],finish[10],tat[10],wt[10],i,n;
+int totwt=0,tottat=0;
+clrscr();
+printf("Enter the number of processes:");
+scanf("%d",&n);
+
